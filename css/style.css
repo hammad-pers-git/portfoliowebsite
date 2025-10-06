@@ -544,7 +544,7 @@ button {
 .home-img .img-box img {
     width: 100%;
     border-radius: 50%;
-    height: 320px;
+    height: 330px;
 }
 
 /* ------- About Section -------- */
@@ -1021,4 +1021,5 @@ button {
     .home-img .img-box {
         max-width: 300px;
     }
+
 }
